@@ -1,0 +1,160 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e2c5c5;
+}
+
+
+footer {
+  background-color: #1a1e26;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+header {
+  background-color: #895555;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header {
+  background-color: #681f1f;
+  color: #efeef4;
+  padding: 30px 50px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left h1 {
+  margin: 0;
+}
+
+.header-left nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.header-left nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.header-left nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-right img {
+  border-radius: 40%;
+  max-width: 200px; /* Adjust the size as needed */
+}
+
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
+
+section h2 {
+  color: #333;
+}
+
+.project {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+  margin: 0 0 10px;
+}
+
+.project p {
+  color: #555;
+}
+
+.contact p {
+  margin: 10px 0;
+}
+
+/* App.css */
+
+#skills {
+  padding: 40px;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  text-align: center;
+  margin: 20px;
+}
+
+.skill img {
+  width: 100px; /* Adjust the size as needed */
+  margin-bottom: 10px;
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.social-media-links a {
+  margin: 0 10px;
+}
+
+.social-media-links img {
+  width: 30px; /* Adjust the size as needed */
+}
+/* App.css */
+
+#certifications {
+  padding: 40px;
+}
+
+#certifications ul {
+  list-style: none;
+  padding: 0;
+}
+
+#certifications li {
+  margin-bottom: 20px;
+}
+
+#certifications h3 {
+  margin: 0;
+}
